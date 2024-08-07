@@ -116,7 +116,7 @@ function incluiPlacar(){
 
 
 function marcaPonto() {
-  if (xBolinha > 580) {
+  if (xBolinha > 590) {
     meusPontos += 1;
   }
   if (xBolinha < 10) {
